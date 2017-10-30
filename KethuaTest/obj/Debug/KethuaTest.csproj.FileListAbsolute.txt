@@ -1,0 +1,5 @@
+D:\a. ki 1 nam 5\HocASP\BT1\KethuaTest\bin\Debug\KethuaTest.exe.config
+D:\a. ki 1 nam 5\HocASP\BT1\KethuaTest\bin\Debug\KethuaTest.exe
+D:\a. ki 1 nam 5\HocASP\BT1\KethuaTest\bin\Debug\KethuaTest.pdb
+D:\a. ki 1 nam 5\HocASP\BT1\KethuaTest\obj\Debug\KethuaTest.exe
+D:\a. ki 1 nam 5\HocASP\BT1\KethuaTest\obj\Debug\KethuaTest.pdb

@@ -1,0 +1,9 @@
+D:\a. ki 1 nam 5\HocASP\BT1\UnitTestProject\obj\Debug\UnitTestProject.csprojResolveAssemblyReference.cache
+D:\a. ki 1 nam 5\HocASP\BT1\UnitTestProject\bin\Debug\UnitTestProject.dll
+D:\a. ki 1 nam 5\HocASP\BT1\UnitTestProject\bin\Debug\UnitTestProject.pdb
+D:\a. ki 1 nam 5\HocASP\BT1\UnitTestProject\bin\Debug\BT1.exe
+D:\a. ki 1 nam 5\HocASP\BT1\UnitTestProject\bin\Debug\BT2.exe
+D:\a. ki 1 nam 5\HocASP\BT1\UnitTestProject\bin\Debug\BT1.pdb
+D:\a. ki 1 nam 5\HocASP\BT1\UnitTestProject\bin\Debug\BT2.pdb
+D:\a. ki 1 nam 5\HocASP\BT1\UnitTestProject\obj\Debug\UnitTestProject.dll
+D:\a. ki 1 nam 5\HocASP\BT1\UnitTestProject\obj\Debug\UnitTestProject.pdb

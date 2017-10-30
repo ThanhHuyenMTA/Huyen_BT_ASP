@@ -1,0 +1,6 @@
+D:\a. ki 1 nam 5\HocASP\BT1\Mang\bin\Debug\Mang.exe.config
+D:\a. ki 1 nam 5\HocASP\BT1\Mang\bin\Debug\Mang.exe
+D:\a. ki 1 nam 5\HocASP\BT1\Mang\bin\Debug\Mang.pdb
+D:\a. ki 1 nam 5\HocASP\BT1\Mang\obj\Debug\Mang.exe
+D:\a. ki 1 nam 5\HocASP\BT1\Mang\obj\Debug\Mang.pdb
+D:\a. ki 1 nam 5\HocASP\BT1\Mang\obj\Debug\Mang.csprojResolveAssemblyReference.cache

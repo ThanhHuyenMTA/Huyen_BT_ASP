@@ -1,0 +1,6 @@
+D:\a. ki 1 nam 5\HocASP\BT1\BT2\bin\Debug\BT2.exe.config
+D:\a. ki 1 nam 5\HocASP\BT1\BT2\bin\Debug\BT2.exe
+D:\a. ki 1 nam 5\HocASP\BT1\BT2\bin\Debug\BT2.pdb
+D:\a. ki 1 nam 5\HocASP\BT1\BT2\obj\Debug\BT2.exe
+D:\a. ki 1 nam 5\HocASP\BT1\BT2\obj\Debug\BT2.pdb
+D:\a. ki 1 nam 5\HocASP\BT1\BT2\obj\Debug\BT2.csprojResolveAssemblyReference.cache
