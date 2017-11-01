@@ -41,6 +41,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DanhSachNV.cs" />
+    <Compile Include="NhanVien.cs" />
+    <Compile Include="NVCongNghe.cs" />
+    <Compile Include="NVQuanly.cs" />
+    <Compile Include="NVSanXuat.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

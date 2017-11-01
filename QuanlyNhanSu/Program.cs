@@ -10,7 +10,11 @@ namespace QuanlyNhanSu
     {
         static void Main(string[] args)
         {
-
+            DanhSachNV dsnvsx = new DanhSachNV();
+            Console.WriteLine("Nhap danh sach NV: ");
+            dsnvsx.Input();
+            dsnvsx.Output();
+            Console.ReadLine();
         }
     }
 }
