@@ -7,10 +7,11 @@ namespace QuanlyNhanSu
 {
     class DanhSachNV 
     {
-        DanhSachNV[] dsnv = new DanhSachNV[100];
-        NVSanXuat[] nvsx = new NVSanXuat[100];
-        NVCongNghe[] nvcn = new NVCongNghe[100];
-        NVQuanly[] nvql = new NVQuanly[100];
+
+
+        NVSanXuat[] nvsx ;
+        NVCongNghe[] nvcn ;
+        NVQuanly[] nvql;
         private int numberNV;
 
         public int NumberNV
@@ -35,7 +36,9 @@ namespace QuanlyNhanSu
             numberNV = Int32.Parse(Console.ReadLine());
             if (numberNV < 0)
                 goto InputSoNV;
-           
+            nvsx = new NVSanXuat[numberNV];
+            nvcn = new NVCongNghe[numberNV];
+            nvql = new NVQuanly[numberNV];
             for (int i = 0; i < numberNV; i+=3)
             {
                 nvsx[i] = new NVSanXuat();
@@ -50,12 +53,29 @@ namespace QuanlyNhanSu
         public void Output()
         {
             Console.WriteLine("    Danh sach nhan vien: ");
-            for(int i=0;i<numberNV;i+=3)       
-                    nvsx[i].Output();
-            for (int i = 1; i < numberNV; i += 3)  
-                    nvcn[i].Output();
-            for (int i = 2; i < numberNV; i += 3)  
-                    nvql[i].Output();
+            int k = 1;
+            for(int i=0;i<numberNV;i+=3)
+            {
+                Console.Write("\t({0}): ", k);
+                nvsx[i].Output();
+                k++;
+            }
+                    
+            for (int i = 1; i < numberNV; i += 3)
+            {
+                Console.Write("\t({0}): ", k);
+                nvcn[i].Output();
+                k++;
+               
+            }
+                   
+            for (int i = 2; i < numberNV; i += 3)
+            {
+                Console.Write("\t({0}): ", k);
+                nvql[i].Output();
+                k++;
+            }
+                   
         }
     }
 }

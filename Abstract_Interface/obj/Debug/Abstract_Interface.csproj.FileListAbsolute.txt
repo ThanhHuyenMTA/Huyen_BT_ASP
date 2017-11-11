@@ -1,0 +1,6 @@
+D:\a. ki 1 nam 5\HocASP\BT1\Abstract_Interface\bin\Debug\Abstract_Interface.exe.config
+D:\a. ki 1 nam 5\HocASP\BT1\Abstract_Interface\obj\Debug\Abstract_Interface.csprojResolveAssemblyReference.cache
+D:\a. ki 1 nam 5\HocASP\BT1\Abstract_Interface\bin\Debug\Abstract_Interface.exe
+D:\a. ki 1 nam 5\HocASP\BT1\Abstract_Interface\bin\Debug\Abstract_Interface.pdb
+D:\a. ki 1 nam 5\HocASP\BT1\Abstract_Interface\obj\Debug\Abstract_Interface.exe
+D:\a. ki 1 nam 5\HocASP\BT1\Abstract_Interface\obj\Debug\Abstract_Interface.pdb

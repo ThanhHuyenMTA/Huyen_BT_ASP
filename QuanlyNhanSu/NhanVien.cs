@@ -58,7 +58,8 @@ namespace QuanlyNhanSu
             InputBirthday:
                 Console.Write("Input birthday: ");
                 DateTime _birthday = DateTime.Now;
-                if (DateTime.TryParseExact(Console.ReadLine(), "dd/MM/yyyy", null, System.Globalization.DateTimeStyles.None, out _birthday))
+                if (DateTime.TryParseExact(Console.ReadLine(), "dd/MM/yyyy", null,
+                    System.Globalization.DateTimeStyles.None, out _birthday))
                     birthday = _birthday;
                 else
                     goto InputBirthday;
@@ -66,7 +67,7 @@ namespace QuanlyNhanSu
         }
         public virtual void Output()
         {
-            Console.Write("\tName: {0}; {1}; {2}", name, address,String.Format("{0:MM/dd/yyyy}",birthday));
+            Console.Write("{0}; {1}; {2}", name, address,String.Format("{0:MM/dd/yyyy}",birthday));
         }
         public virtual float Tienluong()
         {

@@ -1,0 +1,6 @@
+D:\a. ki 1 nam 5\HocASP\BT1\AbstractProject\bin\Debug\AbstractProject.exe.config
+D:\a. ki 1 nam 5\HocASP\BT1\AbstractProject\obj\Debug\AbstractProject.csprojResolveAssemblyReference.cache
+D:\a. ki 1 nam 5\HocASP\BT1\AbstractProject\bin\Debug\AbstractProject.exe
+D:\a. ki 1 nam 5\HocASP\BT1\AbstractProject\bin\Debug\AbstractProject.pdb
+D:\a. ki 1 nam 5\HocASP\BT1\AbstractProject\obj\Debug\AbstractProject.exe
+D:\a. ki 1 nam 5\HocASP\BT1\AbstractProject\obj\Debug\AbstractProject.pdb

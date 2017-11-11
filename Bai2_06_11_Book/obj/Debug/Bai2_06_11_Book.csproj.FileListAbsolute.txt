@@ -1,0 +1,6 @@
+D:\a. ki 1 nam 5\HocASP\BT1\Bai2_06_11_Book\bin\Debug\Bai2_06_11_Book.exe.config
+D:\a. ki 1 nam 5\HocASP\BT1\Bai2_06_11_Book\bin\Debug\Bai2_06_11_Book.exe
+D:\a. ki 1 nam 5\HocASP\BT1\Bai2_06_11_Book\bin\Debug\Bai2_06_11_Book.pdb
+D:\a. ki 1 nam 5\HocASP\BT1\Bai2_06_11_Book\obj\Debug\Bai2_06_11_Book.csprojResolveAssemblyReference.cache
+D:\a. ki 1 nam 5\HocASP\BT1\Bai2_06_11_Book\obj\Debug\Bai2_06_11_Book.exe
+D:\a. ki 1 nam 5\HocASP\BT1\Bai2_06_11_Book\obj\Debug\Bai2_06_11_Book.pdb
