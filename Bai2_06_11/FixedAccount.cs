@@ -84,7 +84,7 @@ namespace Bai2_06_11
                  if (deposit <= 0)
                     goto Nhapsotien;
              //Nhapsonamgui:
-                 Console.WriteLine("Select the tenure for the deposit amount: ");
+                 Console.WriteLine("Select the tenure for the deposit amount is: ");
                  Console.WriteLine("A: 1 year\nB: 2 years\nC: 3 years");
                  Console.Write("Choose your option <A-C>: ");
                  string a = Console.ReadLine();

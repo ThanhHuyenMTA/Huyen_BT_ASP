@@ -10,10 +10,8 @@ namespace Bai2_06_11_Book
     {
         static void Main(string[] args)
         {
-            int number=0;
-            Novel novel = new Novel(number);
-            novel.Input();
-            novel.Display();
+            Test test = new Test();
+            test.Menu();
             Console.ReadLine();
         }
     }

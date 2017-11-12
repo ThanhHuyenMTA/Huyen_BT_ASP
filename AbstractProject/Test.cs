@@ -13,7 +13,7 @@ namespace AbstractProject
         {
             SavingAccount test = new SavingAccount();
             test.SetDetail(test.CustomerName, test.AccNumber);
-            Console.WriteLine("Select two function :");
+            Console.WriteLine("Select two function is:");
             Console.WriteLine("\t1: WithDraw()");//rut tien
             Console.WriteLine("\t2: Deposit()"); //nap tien
             double bankcharge = 0;//phi giao dich

@@ -28,13 +28,13 @@ namespace Abstract_Interface
         }
         public void display()
         {
-            Console.WriteLine("\tCar: ");
+            Console.WriteLine("\tCar is: ");
             for (int i = 0; i < 3; i++)
             {
                 Console.Write("\t\t{0}: ", i + 1);
                 car[i].display();
             }
-            Console.WriteLine("\tTruck: ");
+            Console.WriteLine("\tTruck is: ");
             for (int i = 0; i < 3; i++)
             {
                 Console.Write("\t\t{0}: ", i + 1);

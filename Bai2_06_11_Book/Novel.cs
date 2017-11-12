@@ -9,15 +9,13 @@ namespace Bai2_06_11_Book
     class Novel
     {
         private int length;
-        Book[] listbook;
+        Book[] listbook =new Book[3];
         public Novel(int length)
         {
             this.length= length;
-            Console.Write("Nhap do dai cua mang: ");
-            length =Int32.Parse(Console.ReadLine());
             listbook = new Book[length];
         }
-       
+
         public Book this[int indexer]
         {
             get
@@ -35,28 +33,27 @@ namespace Bai2_06_11_Book
                 {
                     listbook[indexer] = value;
                 }
-                    
+
             }
         }
+        
         public void Input()
         {
             Console.WriteLine("Nhap danh sach books: ");
-            for(int i=0;i<listbook.Length;i++)
+            for (int i = 0; i < listbook.Length; i++)
             {
                 Console.WriteLine("Nhap sach thu {0}:", i + 1);
-                Console.Write("Nhap ma ISBN: "); listbook[i].Isbn = Console.ReadLine();
-                Console.Write("Nhap ma Title: "); listbook[i].Title = Console.ReadLine();
-                Console.Write("Nhap ma id_Book: "); listbook[i].Id_book = Console.ReadLine();
+                listbook[i] = new Book();
+                listbook[i].Input();
             }
         }
 
         public void Display()
         {
-            foreach(var value in listbook)
+            for (int i = 0; i < listbook.Length; i++)
             {
-                Console.WriteLine("\tName: {0} _ MaISBN: {1} _ MaSach: {2}", value.Title, value.Isbn, value.Id_book);
+                listbook[i].Display();
             }
-            
         }
     }
 }

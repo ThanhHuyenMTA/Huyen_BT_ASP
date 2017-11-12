@@ -30,11 +30,24 @@ namespace Bai2_06_11_Book
             set { title = value; }
         }
         public Book() { }
-        public Book(string isbn,string title,string id)
+        public Book(string isbn, string title, string id)
         {
             this.isbn = isbn;
             this.title = title;
             this.id_book = id;
+        }
+        public void Input()
+        {
+            Console.Write("Nhap ma ISBN: ");
+            isbn = Console.ReadLine();
+            Console.Write("Nhap ma Title: ");
+            title = Console.ReadLine();
+            Console.Write("Nhap ma id_Book: ");
+            id_book = Console.ReadLine();
+        }
+        public void Display()
+        {
+            Console.WriteLine("\tName: {0} _ MaISBN: {1} _ MaSach: {2}",title,isbn,id_book);
         }
     }
 }
